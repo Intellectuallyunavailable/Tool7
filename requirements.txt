@@ -4,7 +4,7 @@ Pandas
 SQLAlchemy
 Scikit-learn
 Plotly
-Psycopg2
+Psycopg2-binary
 Requests
 streamlit
 gunicorn
